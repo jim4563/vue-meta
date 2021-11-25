@@ -1,3 +1,3 @@
 (function () {
-   console.log('Vue meta init');
+   // console.log('Vue meta init');
 })()
